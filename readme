@@ -1,0 +1,68 @@
+# 👋 Hi, I'm Aaryansh
+
+> SST student and hustling wanna-be Frontend Developer
+
+I build clean, responsive, and interactive web experiences using HTML, CSS, and a whole lot of curiosity and dedication.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science student interested in frontend & backend development
+- 🛠️ I learn by building projects and experimenting with new ideas
+- 🌱 Currently exploring modern CSS (Flexbox, Grid, animations)
+- 💡 When I'm not coding: reading about design trends, contributing to open source, or trying out the latest CSS trick I just learned
+- 💬 Let's build something together!
+
+---
+
+## 🧰 Skills
+
+| Area | Technologies |
+|------|--------------|
+| Markup | HTML5 |
+| Styling | CSS3, Flexbox, CSS Grid |
+| Animations | Keyframes, Transforms, Transitions |
+| Tools | Git, GitHub, VS Code |
+
+---
+
+## 💼 Projects
+
+### 1. Flexbox Game Board
+A responsive game board built entirely with Flexbox — alignment, wrapping, and box model.
+`HTML` `CSS` `Flexbox`
+
+### 2. Navigation Bar
+A responsive navigation bar using CSS Grid and Flexbox with hover transitions and keyframe animations.
+`HTML` `CSS` `Grid` `Animations`
+
+### 3. CSS Animation Showcase
+Pure CSS animations — hover effects, keyframes, and transforms. Zero JavaScript.
+`HTML` `CSS` `Keyframes` `Transforms`
+
+---
+
+## 🌐 Live Portfolio
+
+This repository contains my personal portfolio website — a fully responsive, single-page site built with semantic HTML and pure CSS.
+
+**Features:**
+- ✅ Sticky navbar with smooth scrolling
+- ✅ Fully responsive layout (mobile-first breakpoints)
+- ✅ CSS custom properties (variables) for theming
+- ✅ Hover transitions & micro-interactions
+- ✅ Dark theme design
+- ✅ Zero JavaScript — 100% HTML & CSS
+
+---
+
+## 🛠️ Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/<your-username>/portfolio.git
+
+# Open locally
+cd portfolio
+open index.html
